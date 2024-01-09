@@ -10,13 +10,14 @@ text-align: left;
     width: 70%;
     padding: lem;
     text-align: left;
-    border: 1px solid   #000;
+    border: 1px solid #000;
     margin: 0 auto;
 }
 
 #container h1
-(
-   font-size 20px;
-   
+{
+     font-size:20px;
+}
+  
 
-)
+
