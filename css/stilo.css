@@ -5,19 +5,34 @@ text-align: left;
  font-family: "courier";
 
 }
+#cabecera 
+{
+     background: #33A;
+     color: white;
+     margin: 0;
+     padding: 0.sem;
+
+}
 #container
 {
     width: 70%;
     padding: lem;
     text-align: left;
-    border: 1px solid   #000;
+    border: 1px solid #000;
     margin: 0 auto;
 }
 
 #container h1
 {
+<<<<<<< HEAD
    font-size: 20px;
 
 }
    
+=======
+     font-size:20px;
+}
+  
+
+>>>>>>> cabecera
 
